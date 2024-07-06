@@ -1,0 +1,8 @@
+join character1 0
+character1 (silly_evil): Hello!
+[wait time="0.5"]
+character1 (silly_evil): How are you?
+- Fine! You?
+	character1 (silly_evil): kys
+- lmao
+	character1 (silly_evil): -_-
