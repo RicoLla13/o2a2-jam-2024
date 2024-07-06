@@ -56,4 +56,4 @@ script = ExtResource("10_17jss")
 name = "default"
 base_overrides = {}
 layers = Array[ExtResource("2_tusni")]([SubResource("Resource_urh0j"), SubResource("Resource_s36l0"), SubResource("Resource_2je2l"), SubResource("Resource_yhy4b"), SubResource("Resource_x1581"), SubResource("Resource_b681l"), SubResource("Resource_rbfel"), SubResource("Resource_617d2")])
-metadata/_latest_layer = -1
+metadata/_latest_layer = 0
