@@ -29,7 +29,7 @@ directories/dtl_directory={
 }
 layout/style_list=["res://default.tres"]
 layout/default_style="res://default.tres"
-text/letter_speed=0.1
+text/letter_speed=0.05
 text/initial_text_reveal_skippable=true
 text/text_reveal_skip_delay=0.1
 text/advance_delay=0.1
