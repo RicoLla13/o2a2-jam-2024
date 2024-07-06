@@ -1,2 +1,6 @@
 join ana 1
-ana: Hello!
+ana: Hello! This is my default emote!
+[wait time="1.0"]
+ana (silly_evil): Now I am silly evil! \:3
+ana (angry_normal): Now I am angry!
+ana (tired_normal): Now I am tired!

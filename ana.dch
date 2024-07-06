@@ -141,6 +141,15 @@
 "scale": 1,
 "scene": ""
 },
+"tired_normal": {
+"export_overrides": {
+"image": "\"res://assets/tired_normal.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
 "worried_normal": {
 "export_overrides": {
 "image": "\"res://assets/worried_normal.png\""
