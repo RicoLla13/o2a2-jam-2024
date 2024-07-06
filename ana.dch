@@ -1,0 +1,182 @@
+{
+"@path": "res://addons/dialogic/Resources/character.gd",
+"@subpath": NodePath(""),
+"_translation_id": "",
+"color": Color(1, 1, 1, 1),
+"custom_info": {
+"sound_mood_default": "",
+"sound_moods": {},
+"style": ""
+},
+"default_portrait": "normal_pose",
+"description": "",
+"display_name": "Ana",
+"mirror": false,
+"nicknames": [""],
+"offset": Vector2(0, 0),
+"portraits": {
+"agustina_silly_evil": {
+"export_overrides": {
+"image": "\"res://assets/agustina_silly_evil.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"angry_evil": {
+"export_overrides": {
+"image": "\"res://assets/angry_evil.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"angry_normal": {
+"export_overrides": {
+"image": "\"res://assets/angry_normal.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"awkward_normal": {
+"export_overrides": {
+"image": "\"res://assets/awkward_normal.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"awkward_very_1": {
+"export_overrides": {
+"image": "\"res://assets/awkward_very_1.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"dissapointed_normal": {
+"export_overrides": {
+"image": "\"res://assets/dissapointed_normal.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"laughing_pose": {
+"export_overrides": {
+"image": "\"res://assets/laughing_pose.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"normal_pose": {
+"export_overrides": {
+"image": "\"res://assets/normal_pose.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"shocked_avg_1": {
+"export_overrides": {
+"image": "\"res://assets/shocked_avg_1.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"shocked_avg_2": {
+"export_overrides": {
+"image": "\"res://assets/shocked_avg_2.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"shocked_normal": {
+"export_overrides": {
+"image": "\"res://assets/shocked_normal.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"shocked_very_1": {
+"export_overrides": {
+"image": "\"res://assets/shocked_very_1.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"shocked_very_2": {
+"export_overrides": {
+"image": "\"res://assets/shocked_very_2.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"silly_evil": {
+"export_overrides": {
+"image": "\"res://assets/silly_evil.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"worried_normal": {
+"export_overrides": {
+"image": "\"res://assets/worried_normal.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"worried_very_1": {
+"export_overrides": {
+"image": "\"res://assets/worried_very_1.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"worried_very_2": {
+"export_overrides": {
+"image": "\"res://assets/worried_very_2.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"worried_very_3": {
+"export_overrides": {
+"image": "\"res://assets/worried_very_3.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+}
+},
+"scale": 1.0
+}
