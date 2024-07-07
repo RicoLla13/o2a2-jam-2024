@@ -46,6 +46,9 @@ animations/leave_default_length=0.5
 animations/leave_default_wait=true
 animations/join_default_wait=true
 text/autopauses={}
+variables={
+"user_input": ""
+}
 
 [editor_plugins]
 

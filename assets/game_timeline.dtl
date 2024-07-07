@@ -1,5 +1,10 @@
+[background arg="res://assets/background.png" fade="0.0"]
 join ana 1
 ana: Hello! This is my default emote!
+ana (silly_evil): Do you want to jump to change position?
+- Yes
+	jump position_change
+- No
 [wait time="1.0"]
 ana (silly_evil): Now I am silly evil! \:3
 ana (angry_normal): Now I am angry!
@@ -7,3 +12,42 @@ ana (tired_normal): Now I am tired!
 ana (awkward_very_1): We will test some multiline text!\
 I am shy uwu\
 (╥﹏╥)
+two hours pass...
+[wait time="1.0"]
+ana (shocked_very_2): I should do something!!
+- Do option A
+	ana (laughing_pose): I did option A, jumping to complement~!
+- Do option B
+	ana (worried_very_2): I did option B, not showing complement~!
+	jump continue
+This is the complement of option A!
+ana (shocked_avg_2): Wow! I am shocked!
+label continue
+The story continues...
+ana (laughing_pose): Now I will prompt you with an input...\
+Enter some text to be shown in the next panel.
+[text_input var="user_input"]
+ana (normal_pose): You have entered\: {user_input}.
+ana (worried_very_3): That's kind of worrying of you to say...
+if {user_input} == "green fn":
+	jump easter_egg
+label position_change
+[update_position position="1" vector="Vector2(100, 0)" time="0.0"]
+update ana 1
+ana (dissapointed_normal): I have moved -_-\
+Put me back where I was?
+- No
+	[update_position position="1" vector="Vector2(500, 0)" time="0.0"]
+	update ana 2
+	ana (angry_normal): Asshole!
+- Yes
+	[update_position action="reset" position="1" vector="Vector2(200, 0)" time="0.0"]
+	update ana 1
+	ana (normal_pose): Thank you!
+[end_timeline]
+label easter_egg
+ana (silly_evil): Big mac Big mac Big mac\
+She know what she wanted and how to go get it without being caught\
+She know what she wanted and how to go steal it without giving thought\
+She know what she wanted and—
+jump position_change
