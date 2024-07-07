@@ -13,7 +13,8 @@ ana (normal_pose): What would you like to do?
 	label credits
 	leave ana
 	[wait time="1.0"]
-	This game was done in the context of the O2A2 2024 Game Jam by\:\
+	This game was made for the O2A2 VN Jam 2024, a micro Visual Novel jam with strict asset limitations and a 1000 word limit.\
+Authors\:\
 - Liviu Arsenescu\
 - Alexandru Simion
 	We would also want to thank\:\
