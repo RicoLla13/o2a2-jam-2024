@@ -29,7 +29,11 @@ overrides = {}
 [sub_resource type="Resource" id="Resource_yhy4b"]
 script = ExtResource("2_tusni")
 scene = ExtResource("5_kjsjj")
-overrides = {}
+overrides = {
+"next_indicator_texture": "\"res://addons/dialogic/Example Assets/next-indicator/next-indicator-dialogic-1.png\"",
+"text_custom_color": "Color(0, 0, 0, 1)",
+"text_use_global_color": "false"
+}
 
 [sub_resource type="Resource" id="Resource_x1581"]
 script = ExtResource("2_tusni")
@@ -56,4 +60,4 @@ script = ExtResource("10_17jss")
 name = "default"
 base_overrides = {}
 layers = Array[ExtResource("2_tusni")]([SubResource("Resource_urh0j"), SubResource("Resource_s36l0"), SubResource("Resource_2je2l"), SubResource("Resource_yhy4b"), SubResource("Resource_x1581"), SubResource("Resource_b681l"), SubResource("Resource_rbfel"), SubResource("Resource_617d2")])
-metadata/_latest_layer = 0
+metadata/_latest_layer = 3
