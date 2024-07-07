@@ -276,8 +276,8 @@ layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
-offset_right = 250.0
-offset_bottom = 100.0
+offset_right = 415.0
+offset_bottom = 145.0
 grow_horizontal = 2
 grow_vertical = 2
 mouse_filter = 2
@@ -292,9 +292,9 @@ texture = ExtResource("4_ygb7j")
 
 [node name="DialogTextWrapper" type="PanelContainer" parent="Anchor/AnimationParent/Sizer/DialogTextPanel/DialogBoxTexture"]
 layout_mode = 0
-offset_top = 36.0
-offset_right = 549.0
-offset_bottom = 151.0
+offset_top = 44.0
+offset_right = 665.0
+offset_bottom = 194.0
 theme_override_styles/panel = SubResource("StyleBoxEmpty_1xe55")
 
 [node name="DialogicNode_DialogText" type="RichTextLabel" parent="Anchor/AnimationParent/Sizer/DialogTextPanel/DialogBoxTexture/DialogTextWrapper" node_paths=PackedStringArray("textbox_root")]
