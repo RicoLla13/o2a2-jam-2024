@@ -4,7 +4,7 @@ Ah...~ Finally home! Today was such a stressing day, but at least tomorrow's Sat
 
 * What should I do? I have a bunch of homework to do, but I'm **exhausted**.
 
-> Do your homework! I'm gonna have more free time!
+> Do your homework! You're gonna have more free time!
 
 I guess that's the best choice... After all, life is all about being the best!
 
@@ -178,6 +178,6 @@ _ENDING 5_
 
 >> Call a classmate.
 
-*You call a classmate, Lisa, and share your struggles. Her support encourages you to reach out to your dad. Both conversations help you find balance and seek help from your boss. Adjusting your workload, you rediscover joy and realize you can rest, even though you're not dead.*
+*You call a classmate, Lisa, and share your struggles. Her support encourages you to reach out to your dad. Both conversations help you find balance and seek help from your boss. Adjusting your workload, you rediscover joy and realize... You can rest, even though you're not dead.*
 
-_ENDING 5_
+_ENDING 6_
