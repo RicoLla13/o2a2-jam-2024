@@ -37,17 +37,14 @@ ana (worried_very_3): That's kind of worrying of you to say...
 if {user_input} == "chicken nugget":
 	jump easter_egg
 label position_change
-[update_position position="1" vector="Vector2(100, 0)" time="0.0"]
-update ana 1
-ana (dissapointed_normal): I have moved -_-\
+join ana (dissapointed_normal) 0
+ana: I have moved -_-\
 Put me back where I was?
 - No
-	[update_position position="1" vector="Vector2(500, 0)" time="0.0"]
-	join ana (angry_normal) 2
+	join ana (angry_normal) 3
 	[wait time="1.0"]
 	ana (angry_normal): Asshole!
 - Yes
-	[update_position action="reset" position="1" vector="Vector2(200, 0)" time="0.0"]
 	join ana (normal_pose) 1
 	[wait time="1.0"]
 	ana (normal_pose): Thank you!

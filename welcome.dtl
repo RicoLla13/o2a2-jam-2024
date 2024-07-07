@@ -8,7 +8,6 @@ label menu_loop
 join ana (laughing_pose) 1
 ana: In fact... Welcome to MY story!
 ana (normal_pose): What would you like to do?
-[update_position action="set_absolute" position="2" vector="Vector2(500, 0)" time="0.0"]
 - Play
 	join ana (laughing_pose) 2
 	[wait time="1.0"]
@@ -29,7 +28,6 @@ Authors\:\
 - Screaming Brain Studios for the main menu background\
 - Bluestype Studio for the font
 	[wait time="1.0"]
-	leave ana
 	jump menu_loop
 - Quit
 	join ana (dissapointed_normal) 2

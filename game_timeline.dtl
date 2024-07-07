@@ -1,0 +1,53 @@
+[background arg="res://assets/background.png" fade="0.0"]
+narrator: Ah...~
+[wait time="1.0"]
+narrator: Finally home!
+[wait time="1.0"]
+join ana (tired_normal) 1
+ana: Today was such a stressfull day, but at least tomorrow's Saturday!
+ana (laughing_pose): Time to relax...
+ana (shocked_avg_1): But wait! I have a lot of projects, also their documentation and bunch of other homework to do...
+ana (worried_very_1): Both my teacher and my boss are gonna kill me if I don't finish all of this by Monday!!
+leave ana
+[wait time="1.0"]
+ana: What should I do?\
+With all this amount of work, I'll never finish...\
+But I am... EXHAUSTED!
+- Do your homework!
+	narrator: I am gonna have more free time afterwards! I am sure of it!
+- You should really take it easy...
+[wait time="1.0"]
+join ana (tired_normal) 1
+ana: I guess that's the best choice...
+ana (normal_pose): After all, life is all about being the best!
+leave ana
+[wait time="1.0"]
+narrator: Two hours pass...
+join ana (angry_evil) 1
+ana: Oh my God... I really need to sleep, but I haven't finished the documentation for Monday's presentation.
+leave ana
+narrator: What should I do?
+- Life is all about being the best!
+narrator: You can rest when you're dead!
+[wait time="1.0"]
+join ana (dissapointed_normal) 1
+ana: I guess that's the best choice.
+[wait time="1.0"]
+ana (worried_very_3): But...
+leave ana
+- No buts!~ You can rest when you're dead!
+[wait time="1.0"]
+join ana (normal_pose) 1
+ana: Yes!
+ana (dissapointed_normal): I can rest when I'm dead...
+leave ana
+narrator: A few more hours pass...
+narrator: But you can barely move yourself...
+join ana (laughing_pose) 1
+ana: Finally, I AM DONE!
+ana (shocked_very_1): Wait... What's this?
+ana (worried_very_2): Oh my God I forgot about that my boss asked me to do this project for my colleague!
+leave ana
+narrator: WHAT SHOULD I DO?
+- 
+- 

@@ -17,6 +17,6 @@ func _on_dialogic_signal(argument:String):
 func _on_timeline_end():
 	Dialogic.timeline_ended.disconnect(_on_timeline_end)
 	if state == "play":
-		get_tree().change_scene_to_file("res://main.tscn")
+		get_tree().change_scene_to_file("res://game.tscn")
 	elif state == "quit":
 		get_tree().quit()
