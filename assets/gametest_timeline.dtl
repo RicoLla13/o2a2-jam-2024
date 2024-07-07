@@ -1,17 +1,21 @@
 [background arg="res://assets/background.png" fade="0.0"]
 join ana 1
 ana: Hello! This is my default emote!
+ana (question_normal): Wait. What are you doing in the test procedure?
+ana (dissapointed_normal): Anyways, this is not my problem. I am just a concept inside a screen.
 ana (silly_evil): Do you want to jump to change position?
 - Yes
 	jump position_change
 - No
+ana (tired_normal): Ok, we will continue the emotions test
 [wait time="1.0"]
 ana (silly_evil): Now I am silly evil! \:3
 ana (angry_normal): Now I am angry!
-ana (tired_normal): Now I am tired!
+ana (dissapointed_normal): Now I am dissapointed!
 ana (awkward_very_1): We will test some multiline text!\
 I am shy uwu\
 (╥﹏╥)
+Some narrator text wooooo\
 two hours pass...
 [wait time="1.0"]
 ana (shocked_very_2): I should do something!!
@@ -25,11 +29,12 @@ ana (shocked_avg_2): Wow! I am shocked!
 label continue
 The story continues...
 ana (laughing_pose): Now I will prompt you with an input...\
-Enter some text to be shown in the next panel.
+Enter some text to be shown in the next panel.\
+Remembre, do NOT enter "chicken nugget".
 [text_input var="user_input"]
 ana (normal_pose): You have entered\: {user_input}.
 ana (worried_very_3): That's kind of worrying of you to say...
-if {user_input} == "green fn":
+if {user_input} == "chicken nugget":
 	jump easter_egg
 label position_change
 [update_position position="1" vector="Vector2(100, 0)" time="0.0"]
@@ -38,16 +43,21 @@ ana (dissapointed_normal): I have moved -_-\
 Put me back where I was?
 - No
 	[update_position position="1" vector="Vector2(500, 0)" time="0.0"]
-	update ana 2
+	join ana (angry_normal) 2
+	[wait time="1.0"]
 	ana (angry_normal): Asshole!
 - Yes
 	[update_position action="reset" position="1" vector="Vector2(200, 0)" time="0.0"]
-	update ana 1
+	join ana (normal_pose) 1
+	[wait time="1.0"]
 	ana (normal_pose): Thank you!
+ana (normal_pose): Ok! Test procedure is done!\
+Now I will finish the timeline, so you can actually play the game or go touch some grass.
+ana (laughing_pose): BYE!!!!!!!!!!!!
 [end_timeline]
 label easter_egg
-ana (silly_evil): Big mac Big mac Big mac\
-She know what she wanted and how to go get it without being caught\
-She know what she wanted and how to go steal it without giving thought\
-She know what she wanted and—
+ana (silly_evil): Gedagedigedagedago\
+Abin mery alontamago\
+Wede wude comfrom? Wede wude go?\
+Wede jude kamfro Bagulado?
 jump position_change

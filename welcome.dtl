@@ -4,27 +4,32 @@ Welcome... to THE story.
 join ana (laughing_pose) 1
 ana: In fact... Welcome to MY story!
 ana (normal_pose): What would you like to do?
+[update_position action="set_absolute" position="2" vector="Vector2(700, 0)" time="0.0"]
 - Play
+	join ana (laughing_pose) 2
 	[wait time="1.0"]
-	Well, let us proceed...
+	ana: Well, let us proceed...
 	[signal arg="goto_main"]
 	[end_timeline]
 - Credits
 	label credits
-	leave ana
+	join ana (normal_pose) 2
 	[wait time="1.0"]
-	This game was made for the O2A2 VN Jam 2024, a micro Visual Novel jam with strict asset limitations and a 1000 word limit.\
+	ana: This game was made for the O2A2 VN Jam 2024, a micro Visual Novel jam with strict asset limitations and a 1000 word limit.\
 Authors\:\
 - Liviu Arsenescu\
 - Alexandru Simion
-	We would also want to thank\:\
+	ana (laughing_pose): We would also want to thank\:\
 - Noraneko Games for the game background\
 - DejiNyucu for the character sprite\
 - Screaming Brain Studios for the main menu background\
 - Bluestype Studio for the font
 	[wait time="1.0"]
+	leave ana
 	jump 
 - Quit
-	ana (dissapointed_normal): Well... We will meet again sooner or later...
+	join ana (dissapointed_normal) 2
+	[wait time="1.0"]
+	ana: Well... We will meet again sooner or later...
 	[signal arg="goto_quit"]
 	[end_timeline]
