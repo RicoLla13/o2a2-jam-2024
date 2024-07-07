@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cnchbvv0307mw"
-path="res://.godot/imported/worried_normal.png-ae4d68ce8e50b9c6dfc79b55752ccb7e.ctex"
+uid="uid://dy72x4srn4g0r"
+path="res://.godot/imported/angry_normal.png-c8a6bf4dfc88e8dc7144033a8ae834a2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/worried_normal.png"
-dest_files=["res://.godot/imported/worried_normal.png-ae4d68ce8e50b9c6dfc79b55752ccb7e.ctex"]
+source_file="res://assets/ana_emotions/angry_normal.png"
+dest_files=["res://.godot/imported/angry_normal.png-c8a6bf4dfc88e8dc7144033a8ae834a2.ctex"]
 
 [params]
 

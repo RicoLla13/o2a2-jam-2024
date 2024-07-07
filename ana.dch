@@ -10,23 +10,14 @@
 },
 "default_portrait": "normal_pose",
 "description": "",
-"display_name": "Ana",
+"display_name": "Ana 27.06.2024",
 "mirror": false,
 "nicknames": [""],
 "offset": Vector2(0, 0),
 "portraits": {
-"agustina_silly_evil": {
-"export_overrides": {
-"image": "\"res://assets/agustina_silly_evil.png\""
-},
-"mirror": false,
-"offset": Vector2(0, 0),
-"scale": 1,
-"scene": ""
-},
 "angry_evil": {
 "export_overrides": {
-"image": "\"res://assets/angry_evil.png\""
+"image": "\"res://assets/ana_emotions/angry_evil.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
@@ -35,7 +26,7 @@
 },
 "angry_normal": {
 "export_overrides": {
-"image": "\"res://assets/angry_normal.png\""
+"image": "\"res://assets/ana_emotions/angry_normal.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
@@ -44,7 +35,7 @@
 },
 "awkward_normal": {
 "export_overrides": {
-"image": "\"res://assets/awkward_normal.png\""
+"image": "\"res://assets/ana_emotions/awkward_normal.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
@@ -53,7 +44,7 @@
 },
 "awkward_very_1": {
 "export_overrides": {
-"image": "\"res://assets/awkward_very_1.png\""
+"image": "\"res://assets/ana_emotions/awkward_very_1.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
@@ -62,7 +53,7 @@
 },
 "dissapointed_normal": {
 "export_overrides": {
-"image": "\"res://assets/dissapointed_normal.png\""
+"image": "\"res://assets/ana_emotions/dissapointed_normal.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
@@ -71,7 +62,7 @@
 },
 "laughing_pose": {
 "export_overrides": {
-"image": "\"res://assets/laughing_pose.png\""
+"image": "\"res://assets/ana_emotions/laughing_pose.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
@@ -80,7 +71,7 @@
 },
 "normal_pose": {
 "export_overrides": {
-"image": "\"res://assets/normal_pose.png\""
+"image": "\"res://assets/ana_emotions/normal_pose.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
@@ -89,7 +80,7 @@
 },
 "shocked_avg_1": {
 "export_overrides": {
-"image": "\"res://assets/shocked_avg_1.png\""
+"image": "\"res://assets/ana_emotions/shocked_avg_1.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
@@ -98,7 +89,7 @@
 },
 "shocked_avg_2": {
 "export_overrides": {
-"image": "\"res://assets/shocked_avg_2.png\""
+"image": "\"res://assets/ana_emotions/shocked_avg_2.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
@@ -107,7 +98,7 @@
 },
 "shocked_normal": {
 "export_overrides": {
-"image": "\"res://assets/shocked_normal.png\""
+"image": "\"res://assets/ana_emotions/shocked_normal.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
@@ -116,7 +107,7 @@
 },
 "shocked_very_1": {
 "export_overrides": {
-"image": "\"res://assets/shocked_very_1.png\""
+"image": "\"res://assets/ana_emotions/shocked_very_1.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
@@ -125,7 +116,7 @@
 },
 "shocked_very_2": {
 "export_overrides": {
-"image": "\"res://assets/shocked_very_2.png\""
+"image": "\"res://assets/ana_emotions/shocked_very_2.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
@@ -134,7 +125,7 @@
 },
 "silly_evil": {
 "export_overrides": {
-"image": "\"res://assets/silly_evil.png\""
+"image": "\"res://assets/ana_emotions/silly_evil.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
@@ -143,7 +134,7 @@
 },
 "tired_normal": {
 "export_overrides": {
-"image": "\"res://assets/tired_normal.png\""
+"image": "\"res://assets/ana_emotions/tired_normal.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
@@ -152,7 +143,7 @@
 },
 "worried_normal": {
 "export_overrides": {
-"image": "\"res://assets/worried_normal.png\""
+"image": "\"res://assets/ana_emotions/worried_normal.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
@@ -161,7 +152,7 @@
 },
 "worried_very_1": {
 "export_overrides": {
-"image": "\"res://assets/worried_very_1.png\""
+"image": "\"res://assets/ana_emotions/worried_very_1.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
@@ -170,7 +161,7 @@
 },
 "worried_very_2": {
 "export_overrides": {
-"image": "\"res://assets/worried_very_2.png\""
+"image": "\"res://assets/ana_emotions/worried_very_2.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
@@ -179,7 +170,7 @@
 },
 "worried_very_3": {
 "export_overrides": {
-"image": "\"res://assets/worried_very_3.png\""
+"image": "\"res://assets/ana_emotions/worried_very_3.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),

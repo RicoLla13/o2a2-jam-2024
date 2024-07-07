@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://coethk6jccv16"
-path="res://.godot/imported/normal_pose.png-3442a5b42b32d08a2facdc553b356363.ctex"
+uid="uid://h7j8pfj28hgn"
+path="res://.godot/imported/worried_normal.png-e30a2addb2c78045ee2898af0e96d84a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/normal_pose.png"
-dest_files=["res://.godot/imported/normal_pose.png-3442a5b42b32d08a2facdc553b356363.ctex"]
+source_file="res://assets/ana_emotions/worried_normal.png"
+dest_files=["res://.godot/imported/worried_normal.png-e30a2addb2c78045ee2898af0e96d84a.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cl68v2jx0k6al"
-path="res://.godot/imported/shocked_very_1.png-42fb50ecc14f4f10e6192319828dccc5.ctex"
+uid="uid://ddaay67y34ten"
+path="res://.godot/imported/shocked_very_1.png-17a661d3824c6347885a0cbd4c1573f9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/shocked_very_1.png"
-dest_files=["res://.godot/imported/shocked_very_1.png-42fb50ecc14f4f10e6192319828dccc5.ctex"]
+source_file="res://assets/ana_emotions/shocked_very_1.png"
+dest_files=["res://.godot/imported/shocked_very_1.png-17a661d3824c6347885a0cbd4c1573f9.ctex"]
 
 [params]
 

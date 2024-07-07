@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b0t518ie572bx"
-path="res://.godot/imported/test.png-9345e8a13a5ffc7f7c123bcf8dce3547.ctex"
+uid="uid://bt6yodjobd31c"
+path="res://.godot/imported/angry_evil.png-9cabce6d4a06c4dfebc3fc5e143ac455.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/test.png"
-dest_files=["res://.godot/imported/test.png-9345e8a13a5ffc7f7c123bcf8dce3547.ctex"]
+source_file="res://assets/ana_emotions/angry_evil.png"
+dest_files=["res://.godot/imported/angry_evil.png-9cabce6d4a06c4dfebc3fc5e143ac455.ctex"]
 
 [params]
 

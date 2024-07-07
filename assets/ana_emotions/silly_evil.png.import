@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://hi0ejpqlirnc"
-path="res://.godot/imported/laughing_pose.png-4ec544798dd2148c71299882ec1e3dbe.ctex"
+uid="uid://sn7t37c8njeb"
+path="res://.godot/imported/silly_evil.png-58d1d6221f7b7bb27d808b02477ca5ff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/laughing_pose.png"
-dest_files=["res://.godot/imported/laughing_pose.png-4ec544798dd2148c71299882ec1e3dbe.ctex"]
+source_file="res://assets/ana_emotions/silly_evil.png"
+dest_files=["res://.godot/imported/silly_evil.png-58d1d6221f7b7bb27d808b02477ca5ff.ctex"]
 
 [params]
 

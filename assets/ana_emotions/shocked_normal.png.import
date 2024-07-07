@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b4n2dwgq5ed6a"
-path="res://.godot/imported/worried_very_1.png-04dbed009f25236d48b7a3d812c6b2e5.ctex"
+uid="uid://4iw0litfv4di"
+path="res://.godot/imported/shocked_normal.png-eed82a0c6ce834972e09288d967b22dc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/worried_very_1.png"
-dest_files=["res://.godot/imported/worried_very_1.png-04dbed009f25236d48b7a3d812c6b2e5.ctex"]
+source_file="res://assets/ana_emotions/shocked_normal.png"
+dest_files=["res://.godot/imported/shocked_normal.png-eed82a0c6ce834972e09288d967b22dc.ctex"]
 
 [params]
 

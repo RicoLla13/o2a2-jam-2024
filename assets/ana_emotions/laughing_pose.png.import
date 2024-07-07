@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bcouij83f3e4m"
-path="res://.godot/imported/worried_very_3.png-375ab9b05e2e83945593d01b2bb0d933.ctex"
+uid="uid://mf5y7ikbrtyl"
+path="res://.godot/imported/laughing_pose.png-939751884b13372297231d7ca5f77a20.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/worried_very_3.png"
-dest_files=["res://.godot/imported/worried_very_3.png-375ab9b05e2e83945593d01b2bb0d933.ctex"]
+source_file="res://assets/ana_emotions/laughing_pose.png"
+dest_files=["res://.godot/imported/laughing_pose.png-939751884b13372297231d7ca5f77a20.ctex"]
 
 [params]
 

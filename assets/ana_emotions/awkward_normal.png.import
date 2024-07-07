@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ctyj0i0qg47yo"
-path="res://.godot/imported/agustina_silly_evil.png-b6cc1622f8374a6e3ffe2c64ebf45d5c.ctex"
+uid="uid://dp700lgg2l3rn"
+path="res://.godot/imported/awkward_normal.png-f2e2bdc4373b0803d74d39e4cd5f1f50.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/agustina_silly_evil.png"
-dest_files=["res://.godot/imported/agustina_silly_evil.png-b6cc1622f8374a6e3ffe2c64ebf45d5c.ctex"]
+source_file="res://assets/ana_emotions/awkward_normal.png"
+dest_files=["res://.godot/imported/awkward_normal.png-f2e2bdc4373b0803d74d39e4cd5f1f50.ctex"]
 
 [params]
 

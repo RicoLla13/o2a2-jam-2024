@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b7pylwp7gm0of"
-path="res://.godot/imported/awkward_very_1.png-990cd219e4855e7ea743a16b0a42b92d.ctex"
+uid="uid://dvnebfajm3bv3"
+path="res://.godot/imported/shocked_very_2.png-b7dccf0c3c02c2aeeb5d22db57539027.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/awkward_very_1.png"
-dest_files=["res://.godot/imported/awkward_very_1.png-990cd219e4855e7ea743a16b0a42b92d.ctex"]
+source_file="res://assets/ana_emotions/shocked_very_2.png"
+dest_files=["res://.godot/imported/shocked_very_2.png-b7dccf0c3c02c2aeeb5d22db57539027.ctex"]
 
 [params]
 

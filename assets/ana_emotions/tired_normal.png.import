@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://tg180fexk3ni"
-path="res://.godot/imported/tired_normal.png-66ae6d849d380b8dc9afacb084c75244.ctex"
+uid="uid://cerwu4f8wcno0"
+path="res://.godot/imported/tired_normal.png-0121b53e68c27e0b228031a802255945.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/tired_normal.png"
-dest_files=["res://.godot/imported/tired_normal.png-66ae6d849d380b8dc9afacb084c75244.ctex"]
+source_file="res://assets/ana_emotions/tired_normal.png"
+dest_files=["res://.godot/imported/tired_normal.png-0121b53e68c27e0b228031a802255945.ctex"]
 
 [params]
 

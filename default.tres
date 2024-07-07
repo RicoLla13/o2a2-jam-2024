@@ -30,9 +30,21 @@ overrides = {}
 script = ExtResource("2_tusni")
 scene = ExtResource("5_kjsjj")
 overrides = {
-"next_indicator_texture": "\"res://addons/dialogic/Example Assets/next-indicator/next-indicator-dialogic-1.png\"",
+"name_label_alignment": "1",
+"name_label_box_modulate": "Color(0, 0, 0, 0)",
+"name_label_box_offset": "Vector2(0, 40)",
+"name_label_box_use_global_color": "false",
+"name_label_custom_color": "Color(0, 0, 0, 1)",
+"name_label_custom_font_size": "30.0",
+"name_label_font": "\"res://assets/fonts/NightPumpkind-1GpGv.ttf\"",
+"name_label_use_global_color": "false",
+"name_label_use_global_font": "false",
+"name_label_use_global_font_size": "false",
+"next_indicator_texture": "\"res://assets/next-indicator.png\"",
+"normal_font": "\"res://assets/fonts/NightPumpkind-1GpGv.ttf\"",
 "text_custom_color": "Color(0, 0, 0, 1)",
-"text_use_global_color": "false"
+"text_use_global_color": "false",
+"text_use_global_font": "false"
 }
 
 [sub_resource type="Resource" id="Resource_x1581"]
@@ -60,4 +72,4 @@ script = ExtResource("10_17jss")
 name = "default"
 base_overrides = {}
 layers = Array[ExtResource("2_tusni")]([SubResource("Resource_urh0j"), SubResource("Resource_s36l0"), SubResource("Resource_2je2l"), SubResource("Resource_yhy4b"), SubResource("Resource_x1581"), SubResource("Resource_b681l"), SubResource("Resource_rbfel"), SubResource("Resource_617d2")])
-metadata/_latest_layer = 3
+metadata/_latest_layer = 0

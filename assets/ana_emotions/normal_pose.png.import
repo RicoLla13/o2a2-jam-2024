@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bybnl4xsywh5m"
-path="res://.godot/imported/awkward_normal.png-45c94c1c4faa8b125a2ffe9a1a6f9513.ctex"
+uid="uid://6ibirlev2isj"
+path="res://.godot/imported/normal_pose.png-c0c67aeb9663fa26f0b247a76af8302a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/awkward_normal.png"
-dest_files=["res://.godot/imported/awkward_normal.png-45c94c1c4faa8b125a2ffe9a1a6f9513.ctex"]
+source_file="res://assets/ana_emotions/normal_pose.png"
+dest_files=["res://.godot/imported/normal_pose.png-c0c67aeb9663fa26f0b247a76af8302a.ctex"]
 
 [params]
 

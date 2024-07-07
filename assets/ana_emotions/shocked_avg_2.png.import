@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c8josywn4174n"
-path="res://.godot/imported/silly_evil.png-203083c7d0952a7f270dd74cae4f38ab.ctex"
+uid="uid://h37rj6i64xyo"
+path="res://.godot/imported/shocked_avg_2.png-8111c546feaccef68813d166954545da.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/silly_evil.png"
-dest_files=["res://.godot/imported/silly_evil.png-203083c7d0952a7f270dd74cae4f38ab.ctex"]
+source_file="res://assets/ana_emotions/shocked_avg_2.png"
+dest_files=["res://.godot/imported/shocked_avg_2.png-8111c546feaccef68813d166954545da.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b0kqd2mwlsgkq"
-path="res://.godot/imported/angry_evil.png-79beede3cdfd808b6a520c5b16564492.ctex"
+uid="uid://be15fm4vrf0oq"
+path="res://.godot/imported/next-indicator.png-b62be15fab873f1cf4ec4cc9b48b5322.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/angry_evil.png"
-dest_files=["res://.godot/imported/angry_evil.png-79beede3cdfd808b6a520c5b16564492.ctex"]
+source_file="res://assets/next-indicator.png"
+dest_files=["res://.godot/imported/next-indicator.png-b62be15fab873f1cf4ec4cc9b48b5322.ctex"]
 
 [params]
 

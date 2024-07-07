@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://uyvutep36x7m"
-path="res://.godot/imported/angry_normal.png-7a9e8d9a378958c67f253eca5b3cb0c9.ctex"
+uid="uid://bapybmh828vj2"
+path="res://.godot/imported/dissapointed_normal.png-38f103a8b24c0f33cdc1bdb9e0586a4c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/angry_normal.png"
-dest_files=["res://.godot/imported/angry_normal.png-7a9e8d9a378958c67f253eca5b3cb0c9.ctex"]
+source_file="res://assets/ana_emotions/dissapointed_normal.png"
+dest_files=["res://.godot/imported/dissapointed_normal.png-38f103a8b24c0f33cdc1bdb9e0586a4c.ctex"]
 
 [params]
 
