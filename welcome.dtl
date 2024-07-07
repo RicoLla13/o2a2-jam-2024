@@ -1,10 +1,14 @@
+[background arg="res://assets/jam_splash_art.png" fade="0.0"]
+The O2A2 2024 VN Game Jam
+[wait time="1.0"]
 [background arg="res://assets/menu_background.png" fade="0.0"]
 Welcome... to THE story.
 [wait time="1.0"]
+label menu_loop
 join ana (laughing_pose) 1
 ana: In fact... Welcome to MY story!
 ana (normal_pose): What would you like to do?
-[update_position action="set_absolute" position="2" vector="Vector2(700, 0)" time="0.0"]
+[update_position action="set_absolute" position="2" vector="Vector2(500, 0)" time="0.0"]
 - Play
 	join ana (laughing_pose) 2
 	[wait time="1.0"]
@@ -26,7 +30,7 @@ Authors\:\
 - Bluestype Studio for the font
 	[wait time="1.0"]
 	leave ana
-	jump 
+	jump menu_loop
 - Quit
 	join ana (dissapointed_normal) 2
 	[wait time="1.0"]
