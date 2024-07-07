@@ -8,4 +8,4 @@ func _ready():
 
 func _on_timeline_end():
 	Dialogic.timeline_ended.disconnect(_on_timeline_end)
-	get_tree().quit()
+	get_tree().change_scene_to_file("res://welcome_menu.tscn")

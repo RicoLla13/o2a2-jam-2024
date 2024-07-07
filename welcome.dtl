@@ -1,0 +1,29 @@
+[background arg="res://assets/menu_background.png" fade="0.0"]
+Welcome... to THE story.
+[wait time="1.0"]
+join ana (laughing_pose) 1
+ana: In fact... Welcome to MY story!
+ana (normal_pose): What would you like to do?
+- Play
+	[wait time="1.0"]
+	Well, let us proceed...
+	[signal arg="goto_main"]
+	[end_timeline]
+- Credits
+	label credits
+	leave ana
+	[wait time="1.0"]
+	This game was done in the context of the O2A2 2024 Game Jam by\:\
+- Liviu Arsenescu\
+- Alexandru Simion
+	We would also want to thank\:\
+- Noraneko Games for the game background\
+- DejiNyucu for the character sprite\
+- Screaming Brain Studios for the main menu background\
+- Bluestype Studio for the font
+	[wait time="1.0"]
+	jump 
+- Quit
+	ana (dissapointed_normal): Well... We will meet again sooner or later...
+	[signal arg="goto_quit"]
+	[end_timeline]
