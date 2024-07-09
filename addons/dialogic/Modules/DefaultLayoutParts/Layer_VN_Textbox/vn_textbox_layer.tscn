@@ -292,9 +292,9 @@ texture = ExtResource("4_ygb7j")
 
 [node name="DialogTextWrapper" type="PanelContainer" parent="Anchor/AnimationParent/Sizer/DialogTextPanel/DialogBoxTexture"]
 layout_mode = 0
-offset_top = 44.0
-offset_right = 665.0
-offset_bottom = 194.0
+offset_top = 37.0
+offset_right = 715.0
+offset_bottom = 199.0
 theme_override_styles/panel = SubResource("StyleBoxEmpty_1xe55")
 
 [node name="DialogicNode_DialogText" type="RichTextLabel" parent="Anchor/AnimationParent/Sizer/DialogTextPanel/DialogBoxTexture/DialogTextWrapper" node_paths=PackedStringArray("textbox_root")]

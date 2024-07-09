@@ -30,13 +30,13 @@ overrides = {}
 script = ExtResource("2_tusni")
 scene = ExtResource("5_kjsjj")
 overrides = {
-"box_size": "Vector2(715, 195)",
-"name_label_alignment": "1",
+"box_size": "Vector2(800, 200)",
+"name_label_alignment": "2",
 "name_label_box_modulate": "Color(0, 0, 0, 0)",
-"name_label_box_offset": "Vector2(-10, 40)",
+"name_label_box_offset": "Vector2(-550, 33)",
 "name_label_box_use_global_color": "false",
 "name_label_custom_color": "Color(0, 0, 0, 1)",
-"name_label_custom_font_size": "30.0",
+"name_label_custom_font_size": "36.0",
 "name_label_font": "\"res://assets/fonts/NightPumpkind-1GpGv.ttf\"",
 "name_label_use_global_color": "false",
 "name_label_use_global_font": "false",
@@ -44,7 +44,7 @@ overrides = {
 "next_indicator_texture": "\"res://assets/next-indicator.png\"",
 "normal_font": "\"res://assets/fonts/NightPumpkind-1GpGv.ttf\"",
 "text_custom_color": "Color(0, 0, 0, 1)",
-"text_size": "20.0",
+"text_size": "26.0",
 "text_use_global_color": "false",
 "text_use_global_font": "false",
 "text_use_global_size": "false"
